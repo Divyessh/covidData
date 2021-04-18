@@ -113,7 +113,7 @@ S.no	District	Institution	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB
 112	Erode	Sudha Hospital	62	62	0	40	40	0	18	18	0	7	7	0	12	12	12	2021-04-18 08:20:57	balance 0
 113	Kallakurichi	Annai Medical Centre	25	9	16	15	9	6	0	0	0	10	0	10	4	0	4	2021-04-17 14:09:18	A
 114	Kallakurichi	E.S. Hospital	25	0	25	6	0	6	9	0	9	10	0	10	6	0	6	2021-04-17 10:33:59	NILL
-115	Kallakurichi	I Med Super Speciality Hospital	10	4	6	5	2	3	5	0	3	2	0	2	1	0	1	2021-04-16 13:27:59	1623
+115	Kallakurichi	I Med Super Speciality Hospital	10	3	7	5	1	4	5	0	3	2	0	2	1	0	1	2021-04-18 13:58:34	1823
 116	Kallakurichi	Lotus Paediatric Emergency Centre	5	0	5	0	0	0	0	0	0	7	0	7	0	0	0	2021-04-16 11:18:59	Lotus hospital
 117	Kallakurichi	Maragadam Hospital	15	0	15	6	0	5	5	0	5	2	0	1	1	0	1	2021-04-17 09:36:17	Nil
 118	Kallakurichi	S A Hospital	5	0	5	3	0	3	2	0	2	3	0	3	1	0	1	2021-04-17 10:18:18	NA
@@ -123,7 +123,7 @@ S.no	District	Institution	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB
 122	Kancheepuram	Madha Medical College&Research Institute	200	29	171	20	2	18	174	22	152	6	5	1	2	2	0	2021-04-18 10:33:48	18.4.2021
 123	Kancheepuram	Sri Muthukumaran Medical College	380	5	375	50	2	48	314	3	312	16	0	16	6	0	6	2021-04-18 11:14:17	18.04.2021
 124	Kancheepuram	Apollo Medical Centre Karapakkam	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-17 11:43:13	Updated 17.04.2021
-125	Kanyakumari	Bensam Hospital	65	20	45	48	2	46	16	19	0	1	0	1	1	0	1	2021-04-18 07:13:43	.
+125	Kanyakumari	Bensam Hospital	65	24	41	48	5	43	16	19	0	1	0	1	1	0	1	2021-04-18 13:51:27	.
 126	Kanyakumari	C.S.I.MISSION HOSPITAL	108	8	100	25	0	25	75	8	67	8	0	8	5	0	5	2021-04-18 07:09:52	.
 127	Kanyakumari	Dr. Jayasekaran Medical Trust Hospital	100	97	3	34	34	0	55	55	0	11	8	3	4	2	1	2021-04-18 11:32:07	.
 128	Kanyakumari	Sree Mookambika Institute of Medical Sciences	180	0	180	75	0	75	95	0	95	10	0	10	10	0	10	2021-04-18 07:08:37	
@@ -393,5 +393,5 @@ S.no	District	Institution	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB
 392	Coimbatore	Gem Hospital and Research centre	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-17 23:39:12	
 393	Coimbatore	N.M. Hospital, Annur 	26	14	12	20	14	6	0	0	0	6	0	6	2	0	2	2021-04-18 13:13:02	
 394	Namakkal	Swamy Vivekanandha Medical College Hospital and Research Institute	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-17 23:47:22	
-395	Tiruvallur	Be well , Ponamallee	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-18 13:05:35	
+395	Tiruvallur	Be well , Ponamallee	18	11	7	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-18 13:59:13	
 396	Thanjavur	National pharma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2021-04-18 13:06:27	

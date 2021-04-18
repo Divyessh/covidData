@@ -11,7 +11,7 @@ headers = ["S.no","District","Institution","CB-Total","CB-Occupied","CB-Vacant",
 f.write("\t".join(headers))
 f.write('\n')
 
-driver = webdriver.Chrome("/usr/bin/chromedriver")
+driver = webdriver.Chrome("chromedriver")
 url = "https://stopcorona.tn.gov.in/beds.php"
 driver.get(url)
 numberOfPg = math.ceil(int(driver.find_element_by_id("dtBasicExample_info").text.split()[-2])//10)
