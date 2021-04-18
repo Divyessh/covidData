@@ -1,4 +1,4 @@
-S.no	District	Institution	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB-Vacant	CB-Total	CB-Occupied	CB-Vacant	Last-Updated	Remarks
+S.no	District	Institution	CovidBeds-Total	CovidBeds-Occupied	CovidBeds-Vacant	OxygenSupportedBeds-Total	OxygenSupportedBeds-Occupied	OxygenSupportedBeds-Vacant	NonOxygenSupportedBeds-Total	NonOxygenSupportedBeds-Occupied	NonOxygenSupportedBeds-Vacant	ICUBeds-Total	ICUBeds-Occupied	ICUBeds-Vacant	VENTILATOR-Total	VENTILATOR-Occupied	VENTILATOR-Vacant	Last-Updated	Remarks
 1	Ariyalur	A.S Hospital	25	10	15	12	4	8	8	6	2	5	0	5	2	0	2	2021-04-17 11:06:57	Report on 17.04.2021
 2	Ariyalur	Golden Hospital	31	10	21	23	10	13	0	0	0	5	0	5	5	0	5	2021-04-17 09:43:23	Report on 17.04.2021
 3	Chengalpattu	Annai Arul Hospital 	35	32	0	33	30	0	0	0	0	2	2	0	2	1	1	2021-04-18 09:02:24	18.04.2021

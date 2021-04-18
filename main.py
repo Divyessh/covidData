@@ -5,8 +5,9 @@ from bs4 import BeautifulSoup
 
 
 f = open("data.tsv","w")
-headers = ["S.no","District","Institution","CB-Total","CB-Occupied","CB-Vacant","CB-Total","CB-Occupied","CB-Vacant","CB-Total","CB-Occupied",
-"CB-Vacant","CB-Total","CB-Occupied","CB-Vacant","CB-Total","CB-Occupied","CB-Vacant","Last-Updated","Remarks"]
+headers = ["S.no","District","Institution","CovidBeds-Total","CovidBeds-Occupied","CovidBeds-Vacant","OxygenSupportedBeds-Total","OxygenSupportedBeds-Occupied",
+"OxygenSupportedBeds-Vacant","NonOxygenSupportedBeds-Total","NonOxygenSupportedBeds-Occupied",
+"NonOxygenSupportedBeds-Vacant","ICUBeds-Total","ICUBeds-Occupied","ICUBeds-Vacant","VENTILATOR-Total","VENTILATOR-Occupied","VENTILATOR-Vacant","Last-Updated","Remarks"]
 
 f.write("\t".join(headers))
 f.write('\n')
